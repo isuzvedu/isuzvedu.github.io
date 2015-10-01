@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://isuzvedu.github.io
+title: donhwe
+tagline: A log of everyday water life
+description: My awesome new water site
+paginate: 5
